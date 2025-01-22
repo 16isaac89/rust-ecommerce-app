@@ -15,3 +15,8 @@ askama = "0.12"
 axum-server = "0.7.1"
 chrono = { version = "0.4", features = ["serde"] }
 
+bcrypt = "0.16"
+axum-macros = "0.5"
+r2d2 = "0.8"
+
+
